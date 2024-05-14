@@ -1,0 +1,1 @@
+export const baseUrl="https://job-board-3.onrender.com"
